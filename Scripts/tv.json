@@ -1,0 +1,3108 @@
+{
+  "Stream": [
+    {
+      "id": 0,
+      "number": 1,
+      "title": "Telemundo 51",
+      "category": "USA",
+      "link": "http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8",
+      "image": "https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v_400x400.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 1,
+      "number": 2,
+      "title": "Teleantillas",
+      "category": "RD",
+      "link": "http://ss1.domint.net:2126/ta2_str/teleantillas/playlist.m3u8",
+      "image": "https://dominicanchannels.net/wp-content/uploads/2013/07/logo_teleantillas.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "number": 3,
+      "title": "Canal del Sol 65",
+      "category": "RD",
+      "link": "http://canaldelsol01.streamprolive.com/hls/live.m3u8",
+      "image": "https://i.imgur.com/bzICwYY.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "number": 4,
+      "title": "Carivision",
+      "category": "RD",
+      "link": "http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8",
+      "image": "https://i.imgur.com/GQxXbjN.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "number": 5,
+      "title": "Telemicro Canal 5",
+      "category": "RD",
+      "link": "http://axelivetv.net:25461/live/marielgrullon@hotmail.com/123456/1203.m3u8",
+      "image": "https://pbs.twimg.com/profile_images/763373982624149504/_qhysU4N_400x400.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "number": 6,
+      "title": "Acento TV",
+      "category": "RD",
+      "link": "http://acentotv01.streamprolive.com/hls/live.m3u8",
+      "image": "https://i.imgur.com/zSRGlam.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "number": 7,
+      "title": "Antena Latina 7",
+      "category": "RD",
+      "link": "http://axelivetv.net:25461/live/marielgrullon@hotmail.com/123456/8513.m3u8",
+      "image": "http://www.opinaamericalatina.com/imagenes/notas/full/antenalatina.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "number": 8,
+      "title": "Bellavision 8",
+      "category": "RD",
+      "link": "http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8",
+      "image": "http://www.bellavision8.com/bellavision_logo%20(1).png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "number": 9,
+      "title": "Color Vision 9",
+      "category": "RD",
+      "link": "http://ss2.domint.net:2138/cvh_str/colorvisionhd/chunklist_w854987298.m3u8",
+      "image": "https://3.bp.blogspot.com/-qnBTdXIAwmo/WSzJWOzajII/AAAAAAAADa4/fRwpY0v-ViMHc4uLHvUz3rpegI681QQCgCLcB/s1600/color%2Bvision%2Ben%2Bvivo.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "number": 10,
+      "title": "Microvision 10",
+      "category": "RD",
+      "link": "http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8",
+      "image": "https://i.imgur.com/Sbv9mq5.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "number": 11,
+      "title": "Telesistema 11",
+      "category": "RD",
+      "link": "http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8",
+      "image": "http://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "number": 12,
+      "title": "Telever Canal 12",
+      "category": "RD",
+      "link": "http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8",
+      "image": "http://i.imgur.com/s2FJJDS.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "number": 13,
+      "title": "Telecentro 13",
+      "category": "RD",
+      "link": "http://stream.grupotelemicro.com/13.m3u8",
+      "image": "https://i.imgur.com/QmHH07J.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 13,
+      "number": 14,
+      "title": "Telenord Canal 8",
+      "category": "RD",
+      "link": "http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8",
+      "image": "https://i.imgur.com/iE1xhA5.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 14,
+      "number": 15,
+      "title": "Telekaribe",
+      "category": "RD",
+      "link": "http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8",
+      "image": "https://i.imgur.com/2bj6efg.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 15,
+      "number": 16,
+      "title": "Telenord Canal 10",
+      "category": "RD",
+      "link": "http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8",
+      "image": "https://i.imgur.com/iE1xhA5.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 16,
+      "number": 17,
+      "title": "Telenord Canal 12",
+      "category": "RD",
+      "link": "http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8",
+      "image": "https://i.imgur.com/iE1xhA5.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 17,
+      "number": 18,
+      "title": "Teleradio America 45",
+      "category": "RD",
+      "link": "http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1884577868.m3u8",
+      "image": "https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 18,
+      "number": 19,
+      "title": "Zol FM",
+      "category": "RD",
+      "link": "http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8",
+      "image": "https://www.hit-tuner.net/images/radiologos/img_laender/zol_1065_fm.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 19,
+      "number": 20,
+      "title": "Yuna Vision 10",
+      "category": "RD",
+      "link": "http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8",
+      "image": "https://i.imgur.com/5bBhi3Q.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 20,
+      "number": 21,
+      "title": "Digital Vision 63",
+      "category": "RD",
+      "link": "http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8",
+      "image": "https://i.imgur.com/nnmAyXT.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 21,
+      "number": 22,
+      "title": "Las Estrellas",
+      "category": "MEXICO/NOTICIAS/LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58972.m3u8",
+      "image": "http://i2.esmas.com/las-estrellas/favicons/152x152.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 22,
+      "number": 23,
+      "title": "Mango Tv",
+      "category": "RD",
+      "link": "http://mangotv01.streamprolive.com/hls/live.m3u8",
+      "image": "https://i.imgur.com/fXE2CL7.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 23,
+      "number": 24,
+      "title": "Azteca 7",
+      "category": "MEXICO",
+      "link": "http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8",
+      "image": "https://1.bp.blogspot.com/-ftG5xbaKsMk/WyXaPSzjF1I/AAAAAAAAAvQ/rRsPdpfp8ycQ-hhIUBCTP3ii5YFYVPZBQCLcBGAs/s1600/azteca7.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 24,
+      "number": 25,
+      "title": "Nexxo 20",
+      "category": "RD",
+      "link": "http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8",
+      "image": "http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 25,
+      "number": 26,
+      "title": "Canal Once",
+      "category": "MEXICO",
+      "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/16826.m3u8",
+      "image": "http://puu.sh/mb2AM/887927ece3.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 26,
+      "number": 27,
+      "title": "Azteca Uno",
+      "category": "MEXICO",
+      "link": "http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8",
+      "image": "http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 27,
+      "number": 28,
+      "title": "Onda TV 10",
+      "category": "RD",
+      "link": "http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8",
+      "image": "https://i.imgur.com/lv0mnMF.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 28,
+      "number": 29,
+      "title": "Az Mundo",
+      "category": "MEXICO",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58979.m3u8",
+      "image": "http://puu.sh/reOZL/d936c27d8a.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 29,
+      "number": 30,
+      "title": "Az Corazon",
+      "category": "MEXICO/latinos",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58980.m3u8",
+      "image": "http://puu.sh/reKy9/756ca89d9b.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 30,
+      "number": 31,
+      "title": "Az Clic",
+      "category": "MEXICO",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58981.m3u8",
+      "image": "http://puu.sh/reKF3/42c6f26362.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 31,
+      "number": 32,
+      "title": "Canal Iberoamericano",
+      "category": "MEXICO",
+      "link": "http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8",
+      "image": "https://www.segib.org/wp-content/uploads/LogoCITV-200x200.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 32,
+      "number": 33,
+      "title": "CAPITAL 21 CDMX",
+      "category": "MEXICO",
+      "link": "http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc",
+      "image": "https://yt3.ggpht.com/-cmw1yRJqfTA/AAAAAAAAAAI/AAAAAAAAAAA/MO0nxnZqRtU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 33,
+      "number": 34,
+      "title": "Ciudad Tv 21.2",
+      "category": "MEXICO",
+      "link": "http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8",
+      "image": "https://pbs.twimg.com/media/CsMXThRUkAARDbk.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 34,
+      "number": 35,
+      "title": "TV MEXIQUENSE",
+      "category": "MEXICO/noticias",
+      "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11211.m3u8",
+      "image": "http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/b7b5b63e-2508-4e9d-8f82-771652fa2480.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 35,
+      "number": 36,
+      "title": "Canal 4 Monclova",
+      "category": "MEXICO/noticias",
+      "link": "http://162.241.190.126:1935/live/canal4/playlist.m3u8",
+      "image": "https://1.bp.blogspot.com/-zYe-Yo_BaPw/XB7N1ndZXnI/AAAAAAAABqI/o_JJeANuRZAXacFWE8UtgbEKfCBeZClhACLcBGAs/w280/canal-4-monclova.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 36,
+      "number": 37,
+      "title": "Orbit tv",
+      "category": "RD",
+      "link": "http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8",
+      "image": "https://ulango.tv/uploads/channels/1340406/logo_orbit%20tv1.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 37,
+      "number": 38,
+      "title": "Ready TV",
+      "category": "RD",
+      "link": "http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8",
+      "image": "http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 38,
+      "number": 39,
+      "title": "Canal 15 Zacatecas",
+      "category": "MEXICO/musica",
+      "link": "http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8",
+      "image": "https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 39,
+      "number": 40,
+      "title": "Telemar Campeche",
+      "category": "MEXICO",
+      "link": "http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8",
+      "image": "http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 40,
+      "number": 41,
+      "title": "Trecevision Yucatan",
+      "category": "MEXICO",
+      "link": "http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8",
+      "image": "http://retoemprendedor.com/images/patrocinadores/canal13_page.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 41,
+      "number": 42,
+      "title": "Sipse TV Cancun",
+      "category": "MEXICO",
+      "link": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+      "image": "http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/2/224294/224294,640x360,b:2.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 42,
+      "number": 43,
+      "title": "Canal 10 Chetumal",
+      "category": "MEXICO",
+      "link": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+      "image": "https://i.vimeocdn.com/portrait/8846221_300x300.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 43,
+      "number": 44,
+      "title": "SQCS Chetumal",
+      "category": "MEXICO",
+      "link": "http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8",
+      "image": "http://sqcs.com.mx/wp-content/uploads/2019/01/logo_radio_y_tv.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 44,
+      "number": 45,
+      "title": "Canal 10 Chiapas",
+      "category": "MEXICO",
+      "link": "http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8",
+      "image": "http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 45,
+      "number": 46,
+      "title": "TV Tlaxcala",
+      "category": "MEXICO",
+      "link": "http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8",
+      "image": "http://www.sndigital.mx/images/stock/img-varios/2014/enero/sn-digital-tlaxcala-mini.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 46,
+      "number": 47,
+      "title": "Ultra TV Puebla",
+      "category": "MEXICO",
+      "link": "https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8",
+      "image": "https://i.imgur.com/unesBrV.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 47,
+      "number": 48,
+      "title": "Ultra TV Aguascalientes",
+      "category": "MEXICO",
+      "link": "https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8",
+      "image": "https://i.imgur.com/unesBrV.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 48,
+      "number": 49,
+      "title": "Ultra TV Aguascalientes",
+      "category": "MEXICO",
+      "link": "https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8",
+      "image": "https://i.imgur.com/unesBrV.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 49,
+      "number": 50,
+      "title": "Teleuniverso 29",
+      "category": "RD/NOTICIAS",
+      "link": "http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8",
+      "image": "https://i.imgur.com/jsF33wj.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 50,
+      "number": 51,
+      "title": "Unicable",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58863.m3u8",
+      "image": "https://cdn.mitvstatic.com/channels/cl_unicable_m.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 51,
+      "number": 52,
+      "title": "Unimas",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58278.m3u8",
+      "image": "https://cdn.mitvstatic.com/channels/cl_unicable_m.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 52,
+      "number": 53,
+      "title": "Univision",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/61434.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 53,
+      "number": 54,
+      "title": "Univision",
+      "category": "LATINOS",
+      "link": "http://disfruta.net:8000/live/SvwPgLO8wl/38m20WDgBw/149.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 54,
+      "number": 55,
+      "title": "Univision Puerto",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58998.m3u8",
+      "image": "http://rec-eph.gfrcdn.net/images/tnph3/295/379/0/0/295/379/2014/10/17/univision141017.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 55,
+      "number": 56,
+      "title": "Galavision",
+      "category": "LATINO",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/59763.m3u8",
+      "image": "http://www.brandemia.org/wp-content/uploads/2012/11/Galavision_3D.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 56,
+      "number": 57,
+      "title": "Telemundo",
+      "category": "LATINOS",
+      "link": "http://disfruta.net:8000/live/SvwPgLO8wl/38m20WDgBw/146.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 57,
+      "number": 58,
+      "title": "Telemundo",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58880.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 58,
+      "number": 59,
+      "title": "Telemundo",
+      "category": "LATINOS",
+      "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/17072.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 59,
+      "number": 60,
+      "title": "Telemundo Puerto Rico",
+      "category": "latinos",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58991.m3u8",
+      "image": "http://4.bp.blogspot.com/-Na97VWhc-QE/U9bmoF5w3VI/AAAAAAAAtPU/5MFPr-OHcIQ/s1600/Telemundo.PNG",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 60,
+      "number": 61,
+      "title": "NBC Universo",
+      "category": "LATINOS",
+      "link": "http://disfruta.net:8000/live/SvwPgLO8wl/38m20WDgBw/11942.m3u8",
+      "image": "http://tvbtn.files.wordpress.com/2015/02/nbc-universo-logo.jpg?w=1100",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 61,
+      "number": 62,
+      "title": "NBC Universo",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58319.m3u8",
+      "image": "http://tvbtn.files.wordpress.com/2015/02/nbc-universo-logo.jpg?w=1100",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 62,
+      "number": 63,
+      "title": "Mega TV",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58999.m3u8",
+      "image": "http://photos.prNEWSwire.com/prnvar/20120316/CL71752LOGO",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 63,
+      "number": 64,
+      "title": "TL Novelas",
+      "category": "LATINOS",
+      "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/17032.m3u8",
+      "image": "http://telecalasparra.com/wp-content/uploads/2016/09/tlnovelas-logo.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 64,
+      "number": 65,
+      "title": "Univision Tlnovelas",
+      "category": "LATINOS",
+      "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/17033.m3u8",
+      "image": "https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 65,
+      "number": 66,
+      "title": "Wapa",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58994.m3u8",
+      "image": "http://vignette3.wikia.nocookie.net/logopedia/images/b/bc/500px-WAPA-TV_logo_2007_TAG_spot_svg.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 66,
+      "number": 67,
+      "title": "ULTRA LUNA",
+      "category": "LATINOS",
+      "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58994.m3u8",
+      "image": "http://vignette3.wikia.nocookie.net/logopedia/images/b/bc/500px-WAPA-TV_logo_2007_TAG_spot_svg.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 67,
+      "number": 68,
+      "title": "ULTRA MACHO",
+      "category": "LATINOS",
+      "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11513.m3u8",
+      "image": "https://assets.cdn.olympusat.com/wp-content/uploads/2017/05/UltraMachocharcoal.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 68,
+      "number": 69,
+      "title": "TVN Nicaragua",
+      "category": "LATINOS",
+      "link": "http://162.244.81.181:1935/live/dshuuyap098e3jdc/no345cnbfhy4y568/Stream1/playlist.m3u8",
+      "image": "http://puu.sh/nvrur/ef232e1ab5.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 69,
+      "number": 70,
+      "title": "Canal Wow TV",
+      "category": "LATINOS",
+      "link": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8",
+      "image": "https://yt3.ggpht.com/-oWwq4sz7xi8/AAAAAAAAAAI/AAAAAAAAAAA/EVeSO1aMco8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 70,
+      "number": 71,
+      "title": "Canal 2 Nicaragua",
+      "category": "LATINOS",
+      "link": "http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8",
+      "image": "https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 71,
+      "number": 72,
+      "title": "Canal 4 Nicaragua",
+      "category": "LATINOS",
+      "link": "http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8",
+      "image": "https://nuevaya.com.ni/wp-content/uploads/2015/03/canal-4.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 72,
+      "number": 73,
+      "title": "Canal 6 Nicaragua",
+      "category": "LATINOS",
+      "link": "http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Pagina_de_canal.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 73,
+      "number": 74,
+      "title": "Canal 8 Nicaragua",
+      "category": "LATINOS",
+      "link": "http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8",
+      "image": "https://www.tn8.tv/media/cache/ef/86/ef865dae4f5bda2d27a01dd320b8a045.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 74,
+      "number": 75,
+      "title": "Canal 9 Nicaragua",
+      "category": "LATINOS",
+      "link": "http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8",
+      "image": "https://pbs.twimg.com/profile_images/1012028349915582471/VpWbkCcn_400x400.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 75,
+      "number": 76,
+      "title": "Canal 12 Nicaragua",
+      "category": "LATINOS",
+      "link": "http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8",
+      "image": "https://seeklogo.com/images/N/nicavision-canal-12-logo-B92DA2E4B4-seeklogo.com.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 76,
+      "number": 77,
+      "title": "Canal 13 Nicaragua",
+      "category": "LATINOS",
+      "link": "http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 77,
+      "number": 78,
+      "title": "TEN Honduras",
+      "category": "LATINOS",
+      "link": "http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8",
+      "image": "http://www.tencanal10.tv/wp-content/uploads/2017/08/ThumbnailTEN1.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 78,
+      "number": 79,
+      "title": "5 El Lider",
+      "category": "LATINOS",
+      "link": "https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Canal_5_%28Honduras%29.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 79,
+      "number": 80,
+      "title": "TSi",
+      "category": "LATINOS",
+      "link": "https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 80,
+      "number": 81,
+      "title": "Multimedios Costa Rica",
+      "category": "LATINOS",
+      "link": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com",
+      "image": "https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 81,
+      "number": 82,
+      "title": "Extrema TV",
+      "category": "LATINOS",
+      "link": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8",
+      "image": "http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 82,
+      "number": 83,
+      "title": "TV Sur 14",
+      "category": "LATINOS",
+      "link": "http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8",
+      "image": "https://i.imgur.com/YqW3o4z.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 83,
+      "number": 84,
+      "title": "Luna Tv",
+      "category": "RD",
+      "link": "http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8",
+      "image": "http://dominicanchannels.com/wp-content/uploads/2014/02/lunatv-1.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 84,
+      "number": 85,
+      "title": "Teleuniverso",
+      "category": "RD",
+      "link": "http://ss1.domint.net:2302/tu_str/universo/chunklist_w197342393.m3u8",
+      "image": "https://2.bp.blogspot.com/-Vgrxn9Mzdfg/W1O7RktqGOI/AAAAAAAAGcE/tEypg5Fm6ZktiE-Ldu79O9_tWqEueT90wCLcBGAs/s1600/blanco-crop.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 85,
+      "number": 86,
+      "title": "Ecuavisa",
+      "category": "LATINOS",
+      "link": "http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8",
+      "image": "http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 86,
+      "number": 87,
+      "title": "Canal Claro",
+      "category": "LATINOS",
+      "link": "http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8",
+      "image": "http://tecnotv.info/logoss/claro.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id":87,
+      "number": 88,
+      "title": "Canal 3",
+      "category": "LATINOS",
+      "link": "http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8",
+      "image": "https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 88,
+      "number": 89,
+      "title": "El 13",
+      "category": "LATINOS",
+      "link": "http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8",
+      "image": "https://pbs.twimg.com/profile_images/553578456013746176/ZiuKif1w.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 89,
+      "number": 90,
+      "title": "Telpin Teven",
+      "category": "LATINOS",
+      "link": "http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8",
+      "image": "https://i.imgur.com/jsnI65B.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+      "id": 90,
+      "number": 91,
+      "title": "Canal M",
+      "category": "LATINOS",
+      "link": "http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8",
+      "image": "http://www.dazplayer.com/img_chh/canal_m.png",
+      "isAdult": false,
+      "isFavorite": false
+    },
+    {
+  "id": 91,
+  "number": 92,
+  "title": "MEGA TV PERU",
+  "category": "LATINOS",
+  "link": "http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8",
+  "image": "https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 92,
+  "number": 93,
+  "title": "Canal Judicial",
+  "category": "NOTICIAS",
+  "link": "http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8",
+  "image": "http://i.imgur.com/Y0oiMPs.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 93,
+  "number": 94,
+  "title": "Canal Judicial",
+  "category": "NOTICIAS",
+  "link": "https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8",
+  "image": "http://i.imgur.com/Y0oiMPs.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 94,
+  "number": 95,
+  "title": "DW Amerika",
+  "category": "NOTICIAS",
+  "link": "http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8",
+  "image": "https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 95,
+  "number": 96,
+  "title": "Foro TV",
+  "category": "NOTICIAS",
+  "link": "https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8",
+  "image": "https://mexico.mom-rsf.org/typo3temp/_processed_/0/b/csm_11513-1329_import_7109b2c020.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 96,
+  "number": 97,
+  "title": "France 24",
+  "category": "NOTICIAS",
+  "link": "http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
+  "image": "http://i.imgur.com/BFMMPwP.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 97,
+  "number": 98,
+  "title": "Milenio TV",
+  "category": "NOTICIAS",
+  "link": "http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8",
+  "image": "http://puu.sh/mwdSw/26eea6807c.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 98,
+  "number": 99,
+  "title": "TELEFORMULA",
+  "category": "NOTICIAS",
+  "link": "http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8",
+  "image": "http://1.bp.blogspot.com/-d8Ni_oUAMRQ/Usy2lByCdzI/AAAAAAAAArM/gsJku5aE_XE/s1600/teleformula.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 99,
+  "number": 100,
+  "title": "Canal 26",
+  "category": "NOTICIAS",
+  "link": "http://200.115.193.177/live/26hd-720/.m3u8",
+  "image": "http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 100,
+  "number": 101,
+  "title": "Hechos Tv",
+  "category": "NOTICIAS",
+  "link": "http://37.187.7.106/hechostv/live.m3u8",
+  "image": "http://static.azteca.com/imagenes/2018/47/hechosnocheenvivo-2272004.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 101,
+  "number": 102,
+  "title": "TeleSUR",
+  "category": "NOTICIAS",
+  "link": "https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8",
+  "image": "http://www.tvcubana.icrt.cu/images/stories/telesur.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 102,
+  "number": 103,
+  "title": "TeleSUR",
+  "category": "NOTICIAS",
+  "link": "http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8",
+  "image": "http://www.tvcubana.icrt.cu/images/stories/telesur.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 103,
+  "number": 104,
+  "title": "Weather Nation Tv",
+  "category": "NOTICIAS",
+  "link": "http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8",
+  "image": "http://www.weathernationtv.com/app/uploads/WN-logo-Full.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 104,
+  "number": 105,
+  "title": "Weather Channel",
+  "category": "NOTICIAS",
+  "link": "http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8",
+  "image": "https://s-media-cache-ak0.pinimg.com/736x/71/dd/2c/71dd2cc171a0e869d715628eeae965a3.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 105,
+  "number": 106,
+  "title": "ABC NEWS",
+  "category": "NOTICIAS",
+  "link": "https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8",
+  "image": "https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 106,
+  "number": 107,
+  "title": "ABC",
+  "category": "NOTICIAS",
+  "link": "http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/180px-American_Broadcasting_Company_Logo.svg.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 107,
+  "number": 108,
+  "title": "Al Jazeera",
+  "category": "NOTICIAS",
+  "link": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/31AIdoYz1sL.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 108,
+  "number": 109,
+  "title": "Bloomberg USA",
+  "category": "NOTICIAS",
+  "link": "https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8",
+  "image": "http://puu.sh/mVTac/49057b2eb0.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 109,
+  "number": 110,
+  "title": "Bloomberg Europe",
+  "category": "NOTICIAS",
+  "link" : "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8",
+  "image": "http://puu.sh/mVTac/49057b2eb0.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 110,
+  "number": 111,
+  "title": "CBS NEWS",
+  "category": "NOTICIAS",
+  "link": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8",
+  "image": "https://cbsnews3.cbsistatic.com/hub/i/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/8287754aae1089f702b0e9e59bad53d6/cbsnews-1600x900.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 111,
+  "number": 112,
+  "title": "CBS",
+  "category": "NOTICIAS",
+  "link": "http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8",
+  "image": "http://photocall.tv/images/cbs.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 112,
+  "number": 113,
+  "title": "C-SPAN",
+  "category": "NOTICIAS",
+  "link": "https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8",
+  "image": "https://cbsnews3.cbsistatic.com/hub/i/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/8287754aae1089f702b0e9e59bad53d6/cbsnews-1600x900.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 113,
+  "number": 114,
+  "title": "C-SPAN 2",
+  "category": "NOTICIAS",
+  "link": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8",
+  "image": "http://www.tv14.net/wp-content/uploads/2010/09/C-SPAN-2.gif",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 114,
+  "number": 115,
+  "title": "C-SPAN 3",
+  "category": "NOTICIAS",
+  "link": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8",
+  "image": "http://www.freeetv.com/images/01_logo/c-span3-tv.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 115,
+  "number": 116,
+  "title": "CNN International",
+  "category": "NOTICIAS",
+  "link": "http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8",
+  "image": "https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 116,
+  "number": 117,
+  "title": "DW NEWS",
+  "category": "NOTICIAS",
+  "link": "http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 117,
+  "number": 118,
+  "title": "France 24",
+  "category": "NOTICIAS",
+  "link": "http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+  "image": "http://i.imgur.com/BFMMPwP.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 118,
+  "number": 119,
+  "title": "NBC",
+  "category": "NOTICIAS",
+  "link": "http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8",
+  "image": "https://www.famouslogos.us/images/nbc-logo.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 119,
+  "number": 120,
+  "title": "RAINEWS24",
+  "category": "NOTICIAS",
+  "link": "http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8",
+  "image": "http://www.netkabel.net.mk/images/sampledata/logo/crainews24.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 120,
+  "number": 121,
+  "title": "Sky NEWS",
+  "category": "NOTICIAS",
+  "link": "http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8",
+  "image": "https://julianlennon.com/wp-content/uploads/2014/12/large-square-sky-news-logo.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 121,
+  "number": 122,
+  "title": "Sky NEWS",
+  "category": "NOTICIAS",
+  "link": "http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8",
+  "image": "https://julianlennon.com/wp-content/uploads/2014/12/large-square-sky-news-logo.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 122,
+  "number": 123,
+  "title": "VoA",
+  "category": "NOTICIAS",
+  "link": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8",
+  "image": "https://www.voanoticias.com/Content/responsive/VOA/img/webApp/ico-192x192.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 123,
+  "number": 124,
+  "title": "BBC Arabic Televison",
+  "category": "NOTICIAS",
+  "link": "http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8",
+  "image": "http://www.televisiongratis.tv/components/com_televisiongratis/images/bbc-arabic-live----------789.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 124,
+  "number": 125,
+  "title": "TRT WORLD",
+  "category": "NOTICIAS/usa",
+  "link": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/604916087180754945/1aMHMBIj.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 125,
+  "number": 126,
+  "title": "WGN Chicago",
+  "category": "NOTICIAS/usa",
+  "link": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8",
+  "image": "http://i.imgur.com/Rp6PKpt.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 126,
+  "number": 127,
+  "title": "EarthCam Times Ware",
+  "category": "NOTICIAS/usa",
+  "link": "https://videos3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8",
+  "image": "https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 127,
+  "number": 128,
+  "title": "EarthCam Street Cam",
+  "category": "NOTICIAS/usa",
+  "link": "https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8",
+  "image": "http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 128,
+  "number": 129,
+  "title": "EarthCam South View",
+  "category": "USA/noticias",
+  "link": "https://videos3.earthcam.com:443/fecnetwork/4017timessquare.flv/chunklist_w706318813.m3u8",
+  "image": "https://dcassetcdn.com/design_img/31919/58353/58353_821741_31919_thumbnail.jpg",
+  "isAdult": false
+}, {
+  "id": 129,
+  "number": 130,
+  "title": "Telecinco",
+  "category": "ESPANA",
+  "link": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8",
+  "image": "https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 130,
+  "number": 131,
+  "title": "13 TV",
+  "category": "ESPANA",
+  "link": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8",
+  "image": "http://3.bp.blogspot.com/-C25_22MePpY/UE6O8Kl2JkI/AAAAAAAAEhU/PLSONECCKH8/s1600/13tvlogoviejo.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 131,
+  "number": 132,
+  "title": "TEST",
+  "category": "USA",
+  "link": "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8",
+  "image": "http://i.imgur.com/fBilZsG.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 132,
+  "number": 133,
+  "title": "TEST 05",
+  "link": "http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8",
+  "category": "USA",
+  "image": "https://www.schildknecht.ag/wp-content/uploads/2017/02/Logo-SENSORTEST_quadrat.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 133,
+  "number": 134,
+  "title": "\"MUSIC CHOICE\"  HD",
+  "category": "Musica",
+  "image": "https://i.imgur.com/KOkrgKs.png",
+  "link": "https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 134,
+  "number": 135,
+  "title": "WFTV Orlando *USA*",
+  "category": "USA",
+  "link": "http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/1864k/index.m3u8",
+  "image": "https://m.media-amazon.com/images/M/MV5BMmU1ZjYxMTEtMDQzZi00ZTlhLWJhYzQtNDgwYTZmODE3N2Y5XkEyXkFqcGdeQXVyNTcwNzgzMDI@._V1_.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 135,
+  "number": 136,
+  "title": "WFTV Orlando *USA*",
+  "category": "USA",
+  "link": "http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/1864k/index.m3u8",
+  "image": "https://m.media-amazon.com/images/M/MV5BMmU1ZjYxMTEtMDQzZi00ZTlhLWJhYzQtNDgwYTZmODE3N2Y5XkEyXkFqcGdeQXVyNTcwNzgzMDI@._V1_.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 136,
+  "number": 137,
+  "title": "CNBC",
+  "category": "USA",
+  "image": "https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png",
+  "link": "http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 137,
+  "number": 138,
+  "title": "CBS NEWS USA",
+  "link": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8",
+  "category": "Noticias / USA",
+  "image": "https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 138,
+  "number": 139,
+  "title": "USA | NHK World",
+  "link": "https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8",
+  "category": "Noticias/USA",
+  "image": "http://bento.cdn.pbs.org/hostedbento-prod/filer_public/mpt_page_images/programs/programs_nhkworldtv_logo.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 139,
+  "number": 140,
+  "title": "Red Bull TV",
+  "category": "USA/Sport",
+  "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+  "image": "http://www.freewarepocketpc.net/wp7/img/red-bull-tv.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 140,
+  "number": 141,
+  "title": "MLB NETWORK 2",
+  "image": "https://www.altice.com.do/sites/default/files/assets/images/logos_canales/MLB.png",
+  "link": "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_2/master_wired.m3u8",
+  "category": "USA/Sport",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 141,
+  "number": 142,
+  "link": "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8",
+  "category": "USA/Sport",
+  "title": "MLB NETWORK 1",
+  "image": "https://www.altice.com.do/sites/default/files/assets/images/logos_canales/MLB.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 142,
+  "number": 143,
+  "title": "USA SPORTS CHANNELS",
+  "link": "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8",
+  "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-01/7/11/enhanced/webdr03/enhanced-buzz-32618-1452185446-0.jpg",
+  "category": "USA/Sport",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 143,
+  "number": 144,
+  "title": "LocoMotion",
+  "category": "Infantil / Kids",
+  "image": "http://anime.es/wp-content/uploads/2015/10/locomotion_logo.gif",
+  "link": "http://locomotiontv.com/envivo/loco_channel/stream.m3u8",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 144,
+  "number": 145,
+  "title": "TBD NETWORK ***",
+  "link": "http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a",
+  "category": "USA/Sport",
+  "image": "https://suesselectronics.com/wp-content/uploads/2016/02/11-3-wluk-tbd-tv-300x225.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 145,
+  "number": 146,
+  "title": "Olympic Channel HD",
+  "link": "https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_1_4064000.m3u8",
+  "category": "USA/Sport",
+  "image": "https://zagadeporte.files.wordpress.com/2018/04/olympic-channel-e1470654911287-1024x5761.jpg?w=672&h=372&crop=1",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 146,
+  "number": 147,
+  "title": "ALL SPORTS ***",
+  "image": "http://i.imgur.com/pllt5rw.png",
+  "link": "http://173.236.10.10:1935/dgrau/dgrau/chunklist_w809777122.m3u8",
+  "category": "USA/Sport",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 147,
+  "number": 148,
+  "title": "USA | Fox Sports Racing",
+  "link": "http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8",
+  "category": "USA/SPORT",
+  "image": "https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 148,
+  "number": 149,
+  "title": "ITA |  Rai 5 HD",
+  "category": "ESPANA",
+  "link": "https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on",
+  "image": "https://i.pinimg.com/originals/c3/3e/65/c33e659834055ec97e29cc3ce199b90e.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 149,
+  "number": 150,
+  "title": "ITA |  Rai News",
+  "link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8",
+  "category": "ESPANA",
+  "image": "https://i.pinimg.com/originals/04/65/a4/0465a49dd82453790022f7ddfd9c434b.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 150,
+  "number": 151,
+  "title": "USA | Weather Channel",
+  "link": "http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8",
+  "category": "USA/NOTICIAS",
+  "image": "https://profilepics.cf.kik.com/LfhWJwFl8Os7riU_-KBkzszlxVQ/orig.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 151,
+  "number": 152,
+  "link": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8",
+  "category": "USA",
+  "title": "TUR | TRT World",
+  "image": "https://media.glassdoor.com/sqll/1644964/trt-world-squarelogo-1496825547585.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 152,
+  "number": 153,
+  "title": "LAT | DW Latinoamerica",
+  "category": "Latinos",
+  "link": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&play-only=primary&rebase=on",
+  "image": "http://s1.dmcdn.net/FzPVB/200x200-3sh.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 153,
+  "number": 154,
+  "category": "USA",
+  "title": "USA | Russia Today",
+  "image": "https://vignette1.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg/revision/latest?cb=20150103194351",
+  "link": "https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 154,
+  "number": 155,
+  "link": "https://rt-esp.secure.footprint.net/1102-inadv-qidx-1k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0",
+  "title": "LAT | RT Español",
+  "category": "USA",
+  "image": "http://shizukany.com/wp-content/uploads/2013/08/RT-America.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 155,
+  "number": 156,
+  "title": "LAT | France 24",
+  "category": "Latinos",
+  "image": "http://shizukany.com/wp-content/uploads/2013/08/RT-America.png",
+  "link": "http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 156,
+  "number": 157,
+  "title": "IRA | HispanTV",
+  "image": "http://topsoundfm.com.ve/wp-content/uploads/2016/04/hispantv.png",
+  "link": "https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1912645349_b644100_slen.m3u8",
+  "category": "latinos",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 157,
+  "number": 158,
+  "link": "https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8",
+  "title": "VEN | TeleSUR",
+  "category": "Venezuela/latinos",
+  "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0024/7862/brand.gif?itok=iWUCX_2m",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 158,
+  "number": 159,
+  "title": "USA | FOX 23 News",
+  "category": "USA,noticias",
+  "image": "http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/Fox23KBSIlogo_1522-150x120.png",
+  "link": "http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 159,
+  "number": 160,
+  "title": "USA | Bloomberg",
+  "category": "USA",
+  "link": "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8",
+  "image": "http://sicawealthmgt.com/wp-content/uploads/2013/03/bloomberglogo2-200x200.jpg",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 160,
+  "number": 161,
+  "title": "USA | WGN NEWS",
+  "category": "USA",
+  "link": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8",
+  "image": "https://media.licdn.com/dms/image/C560BAQHRpXEajCI4YA/company-logo_200_200/0?e=2159024400&v=beta&t=MdnbL3YMFLRxqQQpThQekTVNG6EhIIJXnzTk1JGlAZU",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 161,
+  "number": 162,
+  "title": "CA | ALJAZEERA TV ***",
+  "category": "usa",
+  "link": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8",
+  "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/280px-Al-jazeera-logo.jpg",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 162,
+  "number": 163,
+  "title": "ES | Sevilla FC",
+  "category": "Espana",
+  "link": "http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1",
+  "image": "http://www.logotypes101.com/logos/717/C602AFA07F79F535AE332F9C2CA1DFF1/Sevilla_FC.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 163,
+  "number": 164,
+  "title": "ES | Real Madrid",
+  "link": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8",
+  "category": "Espana",
+  "image": "http://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 164,
+  "number": 165,
+  "title": "ES | TVE 24h",
+  "link": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8",
+  "category": "Espana",
+  "image": "http://orig14.deviantart.net/b535/f/2011/004/4/0/logotipo_para_24h_de_tve_by_bcfstudio-d36fihj.png",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "24horas.es",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/Esp.png"
+}, {
+  "id": 165,
+  "number": 166,
+  "link": "http://paramount.live.flumotion.com/live/playlist.m3u8",
+  "title": "ES | Paramount Network",
+  "category": "usa/cine",
+  "image": "http://images.mi.tv/channels/cl_paramount-channel-hd_m.png",
+  "isAdult": false
+}, {
+  "id": 166,
+  "number": 167,
+  "title": "ES | TeleCinco",
+  "category": "Espana",
+  "link": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8",
+  "image": "http://www.colemancbx.com/wp-content/uploads/2015/04/T5.jpg",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 167,
+  "number": 168,
+  "title": "ES | La Cuatro HD",
+  "category": "Espana",
+  "link": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8",
+  "image": "https://s.libertaddigital.com/fotos/noticias/300/160/logo-cuatro-mjg.jpg",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "cuatro.es",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/Esp.png"
+}, {
+  "id": 168,
+  "number": 169,
+  "title": "ES | Cocina Canal Sur",
+  "category": "Espana",
+  "link": "http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8",
+  "image": "http://media.tvalacarta.info/canales/256x256/rtva.png",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "canalandalucia.es",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/Esp.png"
+}, {
+  "id": 169,
+  "number": 170,
+  "title": "ES | FDF",
+  "category": "Espana",
+  "link": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8",
+  "image": "https://cdn.sincroguia.tv/uploads/images/f/d/f/xfdf.jpg.pagespeed.ic.SDkOkafnDv.jpg",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "factoriaficcion.es",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/Esp.png"
+}, {
+  "id": 170,
+  "number": 171,
+  "title": "HN | TV GLOBO",
+  "category": "Honduras/latinos",
+  "link": "http://tv.aliasdns.info:8979/live/g13/playlist.m3u8?wowzasessionid=1864113021",
+  "image": "http://4.bp.blogspot.com/-kOsooDBfcfw/UJLOpaepKYI/AAAAAAAALBc/aM99moB7NdA/s1600/Globtv.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 171,
+  "number": 172,
+  "title": "HN | Ten HD",
+  "category": "Honduras/latinos",
+  "link": "http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1792220760_b1848000.m3u8",
+  "image": "https://lh3.googleusercontent.com/wJrZLe1682vTMxaals78kvkfuvYxeVpAOSLd-OaBpWY_Ks8lcJ0vcWnaJCFMZIG_O-Q=w300",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 172,
+  "number": 173,
+  "title": "HN | HVH TV",
+  "category": "Honduras/latinos/noticias",
+  "link": "http://stream.innovandote.com/hch/hch/chunklist_w529704944.m3u8",
+  "image": "https://cdn5.hch.tv/wp-content/uploads/2017/12/HCH-300x171.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 173,
+  "number": 174,
+  "title": "LAT | CristoVision",
+  "category": "Latinos/religion",
+  "link": "http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8?iptvgratis?chile.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 174,
+  "number": 175,
+  "title": "USA | EWTN",
+  "category": "USA/religion",
+  "image": "http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487092712547-Imagen.png",
+  "link": "http://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "ewtn.us",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/USA.png"
+}, {
+  "id": 175,
+  "number": 176,
+  "link": "http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8",
+  "title": "LAT | EWTN",
+  "category": "USA/latinos",
+  "image": "http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487092712547-Imagen.png",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "ewtnespanol.us",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/USA.png"
+}, {
+  "id": 176,
+  "number": 177,
+  "title": "DOM | La Voz de María",
+  "category": "RD/religion",
+  "link": "http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8",
+  "image": "http://i.imgur.com/SPoa6jD.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 177,
+  "number": 178,
+  "title": "LAT | Cielo TV",
+  "image": "http://cielotvcristiana.com/images/LOGO.png",
+  "link": "https://5c23f8c141255.streamlock.net/cielotv/cielotv/chunklist_w1097990441.m3u8",
+  "category": "Latinos/religion",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 178,
+  "number": 179,
+  "title": "LAT | CBN HD",
+  "category": "Latinos",
+  "image": "http://54.77.205.179/phoneware/uploads/2014/09/CBN.png",
+  "link": "http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 179,
+  "number": 180,
+  "link": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8",
+  "title": "LAT | 3ABN",
+  "category": "Religion/usa/latinos",
+  "image": "https://cdn-radiotime-logos.tunein.com/s166325d.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 180,
+  "number": 181,
+  "link": "https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on",
+  "title": "USA | Hope Channel",
+  "category": "USA/religion",
+  "image": "https://outlookmag.org/wp-content/uploads/2015/02/Hope-Channel-Logo.jpg",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "hopechannel.us",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/USA.png"
+}, {
+  "id": 181,
+  "number": 182,
+  "title": "CHE | Retro Music",
+  "category": "chiles/musica",
+  "link": "http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w438600132.m3u8",
+  "image": "https://www.satelitnatv.sk/wp-content/uploads/2015/06/retro_music_tv.jpg",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 182,
+  "number": 183,
+  "title": "CH | CDO Deportes",
+  "category": "Chile/latinos/sport",
+  "link": "http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8",
+  "image": "http://www.canalcdo.cl/wp-content/themes/cdo_development/assets/images/btn-senal.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 183,
+  "number": 184,
+  "title": "CH | UesTV",
+  "category": "Chile/latinos/religion",
+  "link": "http://edge1.cl.grupoz.cl/uestv/live/playlist.m3u8",
+  "image": "http://chileiptv.cl/img/logos/file_1492012878.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 184,
+  "number": 185,
+  "title": "GUA | Televisiete 7",
+  "link": "https://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8",
+  "category": "Guatemala/latinos/sport",
+  "image": "http://chapina.tv/wp-content/uploads/2017/12/logo-7.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 185,
+  "number": 186,
+  "title": "ECU | RTS ",
+  "link": "https://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b1073152.m3u8",
+  "category": "Ecuador/latinos",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 186,
+  "number": 187,
+  "title": "ECU | TVN",
+  "category": "Ecuador/latinos",
+  "link": "http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8",
+  "image": "https://3.bp.blogspot.com/-hFhNVAiHE94/W0xwnAiM8YI/AAAAAAAAGYk/tqwkNCTwvpUuaVZtXoddv7Gn07eVdNCRgCLcBGAs/w700-h400-p-k-no-nu/TVC%2Ben%2Bvivo%2Becuador.jpg",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 187,
+  "number": 188,
+  "title": "ECU | Ecuavisa",
+  "category": "Ecuador/latinos/noticias",
+  "link": "http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8?360",
+  "image": "https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Ecuavisa_2007.png/revision/latest/scale-to-width-down/200?cb=20171030212610",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 188,
+  "number": 189,
+  "title": "PE | IPE TV",
+  "link": "http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8",
+  "category": "Peru/latinos",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 189,
+  "number": 190,
+  "title": "PE | ATV NOTICIAS",
+  "category": "Peru/latinos/noticias",
+  "link": "http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8",
+  "image": "https://vignette.wikia.nocookie.net/logopedia/images/2/23/ATV%2B_%282015-%29.png/revision/latest?cb=20150330214005",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 190,
+  "number": 191,
+  "title": "PE | ATV",
+  "category": "Peru/latinos/novelas",
+  "link": "http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8",
+  "image": "https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 191,
+  "number": 192,
+  "title": "ARG | TLX HD",
+  "category": "Argentina/latinos",
+  "link": "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8",
+  "image": "http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 192,
+  "number": 193,
+  "title": "ARG | TelPin HD",
+  "category": "Argentina/latinos",
+  "link": "http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?tecnotv.info?iptv.m3u8",
+  "image": "http://imgur.com/FaZbnua.jpg",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 193,
+  "number": 194,
+  "title": "MEX | Multimedios",
+  "category": "Mexico/latinos",
+  "image": "http://1.bp.blogspot.com/-Cmvq4NWLwB0/UljgtERpZUI/AAAAAAAADKI/if1N0u-awqE/s320/ver+multimedios+en+vivo.png",
+  "link": "http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "multimedios.mx",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/Mex.png"
+}, {
+  "id": 194,
+  "number": 195,
+  "title": "BG | Travel TV",
+  "category": "usa",
+  "image": "https://vignette.wikia.nocookie.net/logopedia/images/d/d2/Travel_Channel_logo.svg/revision/latest/scale-to-width-down/200?cb=20100720194502",
+  "link": "http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 195,
+  "number": 196,
+  "title": "USA | Voice Of America",
+  "image": "https://3x168fxvas-flywheel.netdna-ssl.com/wp-content/uploads/2018/01/voice-of-america-logo.png",
+  "category": "USA",
+  "link": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 196,
+  "number": 197,
+  "title": "La Cuatro",
+  "category": "ESPANA",
+  "link": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8",
+  "image": "http://vercanalestv.com/logos/cuatro.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 197,
+  "number": 198,
+  "title": "BR | Tv Gazeta",
+  "category": "Brasil/latinos",
+  "image": "https://dcassetcdn.com/design_img/31919/58353/58353_821741_31919_thumbnail.jpg",
+  "link": "http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 198,
+  "number": 199,
+  "title": "MEX | Foro TV",
+  "category": "Mexico",
+  "image": "https://mexico.mom-rsf.org/typo3temp/_processed_/0/b/csm_11513-1329_import_7109b2c020.png",
+  "link": "https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8",
+  "isAdult": false,
+  "linkInternal": "E",
+  "epgId": "forotv.mx",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/Mex.png"
+}, {
+  "id": 199,
+  "number": 200,
+  "title": "CR | TicaVisión",
+  "category": "Costa Rica/latinos",
+  "image": "https://pbs.twimg.com/media/DakLHOBVMAAKH0M.jpg",
+  "link": "http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1745669558.m3u8",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 200,
+  "number": 201,
+  "title": "DO | Punta Cana TV",
+  "category": "RD",
+  "link": "https://59f1cbe63db89.streamlock.net:1443/domart/_definst_/domart/chunklist_w419987626.m3u8",
+  "image": "http://puntacanatvrd.com/wp-content/uploads/2015/07/cropped-Logotipo-PCTV1-1.png",
+  "isAdult": false,
+  "linkInternal": "E"
+}, {
+  "id": 201,
+  "number": 202,
+  "title": "CA | Fashion TV HD",
+  "link": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8",
+  "category": "USA",
+  "image": "https://static.filmon.com/assets/channels/21/extra_big_logo.png",
+  "isAdult": false,
+  "linkInternal": "E",
+  "flag": "https://storage.googleapis.com/bluerey-145701.appspot.com/Datos/Flags/CAN.png"
+}, {
+  "id": 202,
+  "number": 203,
+  "title": "Rtv ce",
+  "category": "ESPANA",
+  "link": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8",
+  "image": "https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 203,
+  "number": 204,
+  "title": "NOVA",
+  "category": "ESPANA",
+  "link": "http://91.126.138.140:1935/live/nova-Stream/playlist.m3u8",
+  "image": "http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 204,
+  "number": 205,
+  "title": "A3SERIES",
+  "category": "ESPANA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11278.m3u8",
+  "image": "http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 205,
+  "number": 206,
+  "title": "Be Mad",
+  "category": "ESPANA",
+  "link": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 206,
+  "number": 207,
+  "title": "la Otra",
+  "category": "ESPANA",
+  "link": "http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8",
+  "image": "http://www.cablevisionguadalquivir.com/wp-content/uploads/2014/11/laotra-455x250.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 207,
+  "number": 208,
+  "title": "HELLO",
+  "category": "CINE",
+  "link": "http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/378800000674806544/bc617d1d3a668276f1152866aa8ef987_400x400.jpeg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 208,
+  "number": 209,
+  "title": "Cachipum Tv",
+  "category": "INFANTIL",
+  "link": "http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8",
+  "image": "http://www.cachipum.tv/img/logo.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 209,
+  "number": 210,
+  "title": "Boing",
+  "category": "INFANTIL",
+  "link": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8",
+  "image": "http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 210,
+  "number": 211,
+  "title": "Animation",
+  "category": "INFANTIL",
+  "link": "http://locomotiontv.com/envivo/loco_channel/stream.m3u8",
+  "image": "http://www.animaxtv.com/images/logo_animax.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 211,
+  "number": 212,
+  "title": "El Chavo del 8 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/4848.m3u8",
+  "image": "http://puu.sh/vnC7J/3851e472fd.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 212,
+  "number": 213,
+  "title": "Chapulin Colorado 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11450.m3u8",
+  "image": "https://puu.sh/xafKk/eee533500f.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 213,
+  "number": 214,
+  "title": "BOB ESPONJA 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/4840.m3u8",
+  "image": "https://i.imgur.com/9KPRzuJ.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 214,
+  "number": 215,
+  "title": "Dragon Ball Super 24/7",
+  "category": "INFANTIL",
+  "link": "http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8",
+  "image": "https://puu.sh/xa5W8/e0f4f580f8.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 215,
+  "number": 216,
+  "title": "Los Simpson 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/5571.m3u8",
+  "image": "http://puu.sh/s2xL8/b732aa9e6c.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 216,
+  "number": 217,
+  "title": "Tom y Jerry 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/7908.m3u8",
+  "image": "http://3.bp.blogspot.com/-T7fVLjq1Lrw/UHO4vet_yNI/AAAAAAAACto/nQpIQ6IowzQ/s1600/tom-e-jerry-anmtv.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 217,
+  "number": 218,
+  "title": "LOS PICAPIEDRA 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11433.m3u8",
+  "image": "https://i.imgur.com/UU5lU5q.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 218,
+  "number": 219,
+  "title": "LA PANTERA ROSA 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/6037.m3u8",
+  "image": "https://1.bp.blogspot.com/_9qZScR42z3g/TJT2Xo_8xVI/AAAAAAAAJvE/stvZnnUl4I0/s400/index.jp",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 219,
+  "number": 220,
+  "title": "El Principel del Rap 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/7907.m3u8",
+  "image": "https://puu.sh/xh3eu/503d8c2925.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 220,
+  "number": 221,
+  "title": "ALF 24/7",
+  "category": "INFANTIL",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/4844.m3u8",
+  "image": "https://vignette.wikia.nocookie.net/doblaje/images/4/43/ALF-animatedtitle.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 221,
+  "number": 222,
+  "title": "Animal Planet",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/13979.m3u8",
+  "image": "http://puu.sh/reJpA/bdc45a314f.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 222,
+  "number": 223,
+  "title": "Discovery Channel",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11482.m3u8",
+  "image": "http://puu.sh/reRUc/d3099fe256.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 223,
+  "number": 224,
+  "title": "Discovery Civilization",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11384.m3u8",
+  "image": "http://puu.sh/reRVX/09b104b39b.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 224,
+  "number": 225,
+  "title": "Discovery H&H",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11481.m3u8",
+  "image": "http://puu.sh/reRWX/1a8a31aab2.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 225,
+  "number": 226,
+  "title": " Discovery Science",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11378.m3u8",
+  "image": "http://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo-640x239.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 226,
+  "number": 227,
+  "title": "Discovery Science",
+  "category": "USA",
+  "link": "http://80.80.160.168/live/9/live.m3u8",
+  "image": "http://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo-640x239.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 227,
+  "number": 228,
+  "title": "Discovery Theater",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11479.m3u8",
+  "image": "http://puu.sh/reRZf/b724b419e5.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 228,
+  "number": 229,
+  "title": "Discovery Turbo",
+  "category": "USA/sport",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11377.m3u8",
+  "image": "http://puu.sh/reRZC/14ff477422.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 229,
+  "number": 230,
+  "title": "Discovery World",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11477.m3u8",
+  "image": "http://puu.sh/reS0X/3496f4a93c.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 230,
+  "number": 231,
+  "title": "Discovery TLC",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11478.m3u8",
+  "image": "http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 231,
+  "number": 232,
+  "title": "Discovery TLC",
+  "category": "USA",
+  "link": "http://80.80.160.168/live/2/live.m3u8",
+  "image": "http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png",
+  "isAdult": false
+}, {
+  "id": 232,
+  "number": 233,
+  "title": "Investigation Discovery",
+  "category": "USA",
+  "link": "http://80.80.160.168/live/5/live.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/14.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 233,
+  "number": 234,
+  "title": "ULTRA DOCUMENTALES",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11518.m3u8",
+  "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/48/4c/ca484c33-a60f-0ea6-a942-67429583026c/pr_source.png/246x0w.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 234,
+  "number": 235,
+  "title": "History",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11368.m3u8",
+  "image": "http://puu.sh/m9UfE/5bb8480ed7.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 235,
+  "number": 236,
+  "title": "H2",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/16198.m3u8",
+  "image": "http://puu.sh/mbLha/55295e0162.PNG",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 236,
+  "number": 237,
+  "title": "NatGeo",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11374.m3u8",
+  "image": "http://puu.sh/msJjE/f96602e474.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 237,
+  "number": 238,
+  "title": "Nexxo Tv",
+  "category": "USA",
+  "link": "http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8",
+  "image": "https://3.bp.blogspot.com/-_mGlsI9SqFk/WmvTfuL3l6I/AAAAAAAAAUM/0-0tBu2tzTMKxcJ1trEUe4bwlljwkQL6ACLcBGAs/s1600/nexxotv.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 238,
+  "number": 239,
+  "title": "TV Cosmos",
+  "category": "USA",
+  "link": "http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8",
+  "image": "http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 239,
+  "number": 240,
+  "title": "Cooking Channel",
+  "category": "USA",
+  "link": "http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8",
+  "image": "https://images.bwwstatic.com/columnpic10/29F5B0B5E-F93D-02BE-58AFFB61769097FC.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 240,
+  "number": 241,
+  "title": "Lifedesign",
+  "category": "USA",
+  "link": "http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8",
+  "image": "http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 241,
+  "number": 242,
+  "title": "TWiT",
+  "category": "USA",
+  "link": "http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8",
+  "image": "http://a1.mzstatic.com/us/r30/Purple6/v4/67/f6/4f/67f64f30-a881-ab3d-79b0-3169a8cca3ae/icon128-2x.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 242,
+  "number": 243,
+  "title": "Caza y Pezca",
+  "category": "USA",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/17377.m3u8",
+  "image": "https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logocazaypesca.jpg?ssl=1&w=450",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 243,
+  "number": 244,
+  "title": "World Fishing Network",
+  "category": "USA",
+  "link": "http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 244,
+  "number": 245,
+  "title": "Living Outdoors",
+  "category": "USA",
+  "link": "https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8",
+  "image": "https://i.imgur.com/KGaH3pH.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 245,
+  "number": 246,
+  "title": "Travel HD",
+  "category": "USA",
+  "link": "http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tc_g.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 246,
+  "number": 247,
+  "title": "London Live",
+  "category": "USA",
+  "link": "http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8",
+  "image": "http://www.londonlive.co.uk/assets/images/logo-white.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 247,
+  "number": 248,
+  "title": "24 TV CULTURALES",
+  "category": "USA",
+  "link": "http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8",
+  "image": "https://multimedia.larepublica.pe/342x192/larepublica/imagen/2015/05/17/Noticia-867-culturatv.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 248,
+  "number": 249,
+  "title": "A&E",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58990.m3u8",
+  "image": "http://puu.sh/reIHx/6250def099.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 249,
+  "number": 250,
+  "title": "AMC",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58986.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 250,
+  "number": 251,
+  "title": "AXN",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58983.m3u8",
+  "image": "https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/1_abba071f13.jpg?ssl=1&w=450",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 251,
+  "number": 252,
+  "title": "Comedy Central",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58966.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 252,
+  "number": 253,
+  "title": "CINEcanal",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58969.m3u8",
+  "image": "https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 253,
+  "number": 254,
+  "title": "CINEmax",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58968.m3u8",
+  "image": "https://cdn.mitvstatic.com/channels/mx_cinemax_m.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 254,
+  "number": 255,
+  "title": "DHE",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/14009.m3u8",
+  "image": "http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 255,
+  "number": 256,
+  "title": "TBS",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/60986.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/17.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 256,
+  "number": 257,
+  "title": "Studio Universal",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58886.m3u8",
+  "image": "https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 257,
+  "number": 258,
+  "title": "Sony",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58888.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 258,
+  "number": 259,
+  "title": "Space",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58887.m3u8",
+  "image": "https://buscador.cablevisionfibertel.com.ar/logos/33.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 259,
+  "number": 260,
+  "title": "SyFy",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58884.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/22.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 260,
+  "number": 261,
+  "title": "SyFy",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11349.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/22.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 261,
+  "number": 262,
+  "title": "TNT",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/8081.m3u8",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/61lBg13y51L._SY355_.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 262,
+  "number": 263,
+  "title": "TNT SERIES",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58870.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 263,
+  "number": 264,
+  "title": "Universal kids",
+  "category": "usa/infantil",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/8089.m3u8",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/315jYZCIh2L._SY355_.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 264,
+  "number": 265,
+  "title": "Universal Channel",
+  "category": "CINE",
+  "link": "http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 265,
+  "number": 266,
+  "title": "Warner Channel",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58857.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 266,
+  "number": 267,
+  "title": "Lifetime",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58908.m3u8",
+  "image": "https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-LIFETIME-ANDROID-TV-BOX-APP-1.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 267,
+  "number": 268,
+  "title": "FX",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58923.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 268,
+  "number": 269,
+  "title": "FXM",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58922.m3u8",
+  "image": "http://tmsimg.video.cdn.charter.com/h3/NowShololg/14988/s14988_h3_aa.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 269,
+  "number": 270,
+  "title": "FOX Life",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58929.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 271,
+  "number": 272,
+  "title": "Fox Premium Series",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6138.m3u8",
+  "image": "https://imagenes.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m1280052_Fox-premium-series-gris.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 272,
+  "number": 273,
+  "title": "Fox Action",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6142.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 273,
+  "number": 274,
+  "title": "Fox Cinema",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6141.m3u8",
+  "image": "http://puu.sh/mb4wQ/6cd02167d4.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 274,
+  "number": 275,
+  "title": "Fox",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6143.m3u8",
+  "image": "http://puu.sh/mb4wQ/6cd02167d4.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 275,
+  "number": 276,
+  "title": "Fox Classics",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6140.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/fox/fox-classics.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 276,
+  "number": 277,
+  "title": "Fox Movies",
+  "category": "CINE",
+  "link": "http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 277,
+  "number": 278,
+  "title": "Fox Movies",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6139.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 278,
+  "number": 279,
+  "title": "Fox Family",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58930.m3u8",
+  "image": "http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 279,
+  "number": 280,
+  "title": "Fox Comedy",
+  "category": "CINE",
+  "link": "http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8",
+  "image": "https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 280,
+  "number": 281,
+  "title": "Fox Comedy",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58931.m3u8",
+  "image": "https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 281,
+  "number": 282,
+  "title": "HBO",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/849.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 282,
+  "number": 283,
+  "title": "HBO 2",
+  "category": "CINE",
+  "link": "http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8",
+  "image": "http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 283,
+  "number": 284,
+  "title": "HBO 2",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6146.m3u8",
+  "image": "http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 284,
+  "number": 285,
+  "title": "HBO Plus",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6148.m3u8",
+  "image": "http://www.supercable.com/supercable/wp-content/uploads/2018/03/HBO_PLUS__Black-lr.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 285,
+  "number": 286,
+  "title": "HBO Family",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6144.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 286,
+  "number": 287,
+  "title": "HBO Signature",
+  "category": "CINE",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/6147.m3u8",
+  "image": "https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 287,
+  "number": 288,
+  "title": "Max",
+  "category": "CINE",
+  "link": "http://coninfo.net:1935/13maxhd/live_720p/.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 288,
+  "number": 289,
+  "title": "Max Prime",
+  "category": "CINE",
+  "link": "http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8",
+  "image": "https://cdn.mitvstatic.com/channels/ar_max-prime_m.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 289,
+  "number": 290,
+  "title": "Max Up",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58904.m3u8",
+  "image": "http://puu.sh/mbM9Q/075938049b.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 290,
+  "number": 291,
+  "title": "DirecTv Cinema",
+  "category": "CINE",
+  "link": "http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279",
+  "image": "http://insider.directv.com/wp-content/uploads/2016/07/lg__news_digitalentguide.jpeg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 291,
+  "number": 292,
+  "title": "MC",
+  "category": "CINE",
+  "link": "http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/434292249719885824/RYy0Zc69.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 292,
+  "number": 293,
+  "title": "Film & Arts",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11262.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 293,
+  "number": 294,
+  "title": "Paramount Channel",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/13994.m3u8",
+  "image": "http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 294,
+  "number": 295,
+  "title": "SUNDANCE Channel",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58885.m3u8",
+  "image": "http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 295,
+  "number": 296,
+  "title": "Golden HD",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58918.m3u8",
+  "image": "http://www.totalplay.com.mx/images/logos/canales/can_hd/30.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 296,
+  "number": 297,
+  "title": "Golden PLUS",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/13997.m3u8",
+  "image": "http://etb.com.co/hogares/img1/guia/logos/logo-goldenhd.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 297,
+  "number": 298,
+  "title": "Golden Premier",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/13996.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 298,
+  "number": 299,
+  "title": "AZTECA CINEMA",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58982.m3u8",
+  "image": "http://masaryk.tv/wp-content/uploads/2015/05/az-cinema-cartel.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 299,
+  "number": 300,
+  "title": "CINE Latino",
+  "category": "CINE",
+  "link": "http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/17029.m3u8",
+  "image": "https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 300,
+  "number": 301,
+  "title": "DE PELICULA",
+  "category": "CINE",
+  "link": "http://144.217.69.93:25461/live/Maelo777/magie777/58963.m3u8",
+  "image": "https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 301,
+  "number": 302,
+  "title": "DE PELICULA",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11310.m3u8",
+  "image": "https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 302,
+  "number": 303,
+  "title": "Puñal Tv",
+  "category": "CINE",
+  "link": "http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8",
+  "image": "http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 303,
+  "number": 304,
+  "title": "Frecuencia Musical Tv",
+  "category": "CINE",
+  "link": "http://streaminglivehd.com:1935/8056/8056/playlist.m3u8",
+  "image": "https://img8.androidappsapk.co/300/4/b/6/com.frecuenciamusical.radio.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 304,
+  "number": 305,
+  "title": "TVS DE TODOS",
+  "category": "CINE",
+  "link": "http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8",
+  "image": "http://hostlagarto.com/streaming/wp-content/uploads/2018/09/logo-tvs.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 305,
+  "number": 306,
+  "title": "Zee mundo",
+  "category": "CINE",
+  "link": "https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8",
+  "image": "http://i68.tinypic.com/3129x1z_th.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 306,
+  "number": 307,
+  "title": "ULTRA CINE",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11520.m3u8",
+  "image": "http://2.bp.blogspot.com/-qrbxVDZErps/VT5Z0CG_ewI/AAAAAAAAFJM/YaNjgUZC9MY/s1600/ultra_cine-mediano.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 307,
+  "number": 308,
+  "title": "ULTRA CLASICO",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11519.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/684061254353174529/wjSOKcvm_400x400.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 308,
+  "number": 309,
+  "title": "ULTRA FILM",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11516.m3u8",
+  "image": "https://yt3.ggpht.com/a/AGF-l7-yIxKA4FMgMIObBiPcNIp8wYuRRi-b4NVfAg=s288-mo-c-c0xffffffff-rj-k-no",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 309,
+  "number": 310,
+  "title": "Ultra Mex",
+  "category": "CINE",
+  "link": "http://iptv.wtf:25461/live/fzbuflli/72T5q3jvFy/11512.m3u8",
+  "image": "https://trademarks.justia.com/media/image.php?serial=85364966",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 310,
+  "number": 311,
+  "title": "AMC",
+  "category": "CINE",
+  "link": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/1016749888846131201/52W9UWbT_400x400.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 311,
+  "number": 312,
+  "title": "BLUE & Extreme",
+  "category": "CINE",
+  "link": "http://45.126.83.51/session/3e1febe2-3036-11e9-883d-bae1b0227905/dr9445/h/h15/01.m3u8",
+  "image": "https://i.imgur.com/oO0kv8z.png?1",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 312,
+  "number": 313,
+  "title": "Cinema World",
+  "category": "CINE",
+  "link": "http://210.210.155.35/uq2663/h/h04/01.m3u8",
+  "image": "https://i.imgur.com/4U2pK9m.jpg?1",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 313,
+  "number": 314,
+  "title": "First Movies",
+  "category": "CINE",
+  "link": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8",
+  "image": "https://i.imgur.com/8rKH9g3.jpg?1",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 314,
+  "number": 315,
+  "title": "GOSPEL MOVIES",
+  "category": "CINE",
+  "link": "http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8",
+  "image": "https://3.bp.blogspot.com/-lrFHOUdAWT4/WyCp49lRY0I/AAAAAAAAAJE/RCBmbf5jSWgy2ju2quwaX39QBqZ1g5kZwCPcBGAYYCw/s400/Screenshot_2018-06-13-00-55-39.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 315,
+  "number": 316,
+  "title": "HITS",
+  "category": "CINE",
+  "link": "http://45.126.83.51/session/b13eb8e6-3032-11e9-9e89-bcf9892f75ee/uq2663/h/h37/01.m3u8",
+  "image": "https://i.imgur.com/wG5u5EX.jpg?1",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 316,
+  "number": 317,
+  "title": "K Plus",
+  "category": "CINE",
+  "link": "http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8",
+  "image": "http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 317,
+  "number": 318,
+  "title": "MY CINEMA",
+  "category": "CINE",
+  "link": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8",
+  "image": "http://www.dens.tv/images/channel-logo/95.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 318,
+  "number": 319,
+  "title": "KIX",
+  "category": "CINE",
+  "link": "http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 319,
+  "number": 320,
+  "title": "Ray Movie",
+  "category": "CINE",
+  "link": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8",
+  "image": "https://www.nowonsocmed.com/iptv/logo/raimovie.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 320,
+  "number": 321,
+  "title": "Pop",
+  "category": "CINE",
+  "link": "https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 321,
+  "number": 322,
+  "title": "Showtime HD",
+  "category": "CINE",
+  "link": "http://80.80.160.168/live/7/live.m3u8",
+  "image": "https://sc.dish.com/shared/images/station-logos/SHOWT.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 322,
+  "number": 323,
+  "title": "Shot Tv",
+  "category": "CINE",
+  "link": "http://78.29.1.66/live/shot_tv/copy/playlist.m3u8",
+  "image": "http://www.cktv.ru/img/tv/shottv.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 323,
+  "number": 324,
+  "title": "Star Movies",
+  "category": "CINE",
+  "link": "http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8",
+  "image": "http://www.bestmediainfo.com/wp-content/uploads/2013/05/star-movies-action.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 324,
+  "number": 325,
+  "title": "Star World",
+  "category": "USA",
+  "link": "http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 325,
+  "number": 326,
+  "title": "Western",
+  "category": "CINE",
+  "link": "https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8",
+  "image": "https://i.imgur.com/cJaeQA7.png",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 326,
+  "number": 327,
+  "title": "24/7 Hollywood Movies 3",
+  "category": "CINE",
+  "link": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
+  "image": "",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 327,
+  "number": 328,
+  "title": "WOWOW MOVIES",
+  "category": "CINE",
+  "link": "http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8",
+  "image": "https://image3.mouthshut.com/images/imagesp/925755500s.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 328,
+  "number": 329,
+  "title": "24/7 Hollywood Movies 6",
+  "category": "CINE",
+  "link": "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8",
+  "image": "http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 329,
+  "number": 330,
+  "title": "24/7 Movies 1",
+  "category": "CINE",
+  "link": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8",
+  "image": "http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 330,
+  "number": 331,
+  "title": "Movies 2",
+  "category": "CINE",
+  "link": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8",
+  "image": "http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 331,
+  "number": 332,
+  "title": "Sky Sports F1 HD+",
+  "category": "SPORT",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/983.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/937581648329179137/SNHiwYrl_200x200.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 332,
+  "number": 333,
+  "title": "UNIMAS HD",
+  "category": "SPORT",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/588.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/665169187946364929/2y3w3T8E_200x200.jpg",
+  "isAdult": false,
+  "isFavorite": false
+}, {
+  "id": 333,
+  "number": 334,
+  "title": "Movistar F1 HD",
+  "category": "SPORT",
+  "link": "http://axelivetv.net:25461/live/omo5@axetv.net/123456/936.m3u8",
+  "image": "https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP_400x400.jpg",
+  "isAdult": false,
+  "isFavorite": false
+} ]
+}

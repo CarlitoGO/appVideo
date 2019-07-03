@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Player</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/video-js.css" rel="stylesheet" />
+    <link href="css/estilos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+</head>
+<body>
+    <main>
+        <div class="">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-md-offset-4">
+                    <!-- puedo porner logo si hay -->
+                </div>
+            </div>
+            <div id="sidebar">
+                <ul id="CatList">
+                    <li id="ALL">All</li>
+                    <li id="SPORT">Deportes</li>
+                    <li id="Cine">Cine</li>
+                    <li id="Noticias">Noticias</li>
+                    <li id="Infantil">Infantil</li>
+                    <li id="Latinos">Latinos</li>
+                    <li id="religion">Religion</li>
+                    <li id="RD">Dom.Rep</li>
+                    <li id="USA">Usa</li>
+                    <li id="Mexico">Mexico</li>
+                    <li id="Spana">Spana</li>
+                </ul>
+            </div>
+            <div class="row">
+                <div class="col-md-6" id="list">
+                    <input type="text" id="formulario">
+                    <ul class="list-group" id="playlist"></ul>
+                </div>
+                <div class="col-md-6" id="con">
+                    <video class="fm-video " id="-video" controls></video>
+                    <button class="btn btn-success" id="previous"><i class="fas fa-fast-backward"></i></button>
+                    <button class="btn btn-success" id="next"><i class="fas fa-fast-forward"></i></button>
+                </div>
+                <div id="vista">
+
+                </div>
+
+                <div class="social">
+                    <ul>
+                        <li></li>
+                        <li><button class="btn btn-success" id="btnfind"><i class="fas fa-search"></i></button></li>
+                        <li><button class="btn btn-success" id="logo"><i class="fas fa-bars"></i></button></li>
+                        <li><button class="btn btn-success" id="completa"><i class="far fa-window-maximize"></i></button></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </main>
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script src="Scripts/App.js" charset="utf-8"></script>
+    <script src='https://vjs.zencdn.net/7.5.4/video.js'></script>
+</body>
+</html>
+

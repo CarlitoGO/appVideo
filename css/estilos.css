@@ -1,0 +1,338 @@
+* {
+	padding: 0;
+	margin: 0;
+    font-family: Verdana;
+}
+
+body {
+	background: rgb(20,20,20);
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*header {
+	background: #1D87D8;
+	color: #fff;
+	text-align: center;
+	padding: 50px 0;
+	height: 400px;
+	position: absolute;
+	top: 20;
+	width: 100%;
+}*/
+main{
+    margin:10px;
+    width:1200px;
+    height:100%;
+}
+ main .contenedor {
+   width: 90%;
+   max-width: 1000px;
+   margin: auto;
+ }
+
+header .titulo {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+div#list {
+    position: absolute;
+    width: 350px;
+    height: 100%;
+    padding-left: 65px;
+    padding-top: 60px;
+}
+.social{
+    margin-left:30px;
+    position:fixed;
+    left:0;
+    /*top:110PX;*/
+    height:100%;
+    z-index:2000;
+}
+.social ul {
+     list-style:none; 
+     margin-top:58PX;
+     height:100%;
+}
+.social li{
+   margin-bottom:5px;
+}
+#formulario {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    position:inherit;
+    margin-left:-400px;
+    
+}
+ #formulario.find {
+     margin-left:30px;
+     position:sticky;
+    z-index:20000;
+ }
+
+div#con {
+    margin-top: 50px;
+    width: 400px;
+    height: 300px;
+    float: left;
+    margin-left: 500px;
+}
+
+main .contenedor {
+	width: 90%;
+	max-width: 1000px;
+	margin-top: 5px;
+    margin:auto;
+}
+
+/* ------------------------- */
+/* Estilos CSS del Reproductor */
+/* ------------------------- */
+.fm-video {
+	width: 550px;
+    height:300px;
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,.5);
+   color:black;
+   /*visibility:hidden;*/
+  
+      
+}
+#vista{
+    margin-top:60px;
+    margin-left:515px;
+}
+.contenedor.player {
+    display:none;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    box-shadow: 0px 0px 6px 0px rgba(0,0,0,.5);
+    color: black;
+}
+button#completa{
+    margin-bottom: 8px;
+}
+button#completa2 {
+    margin-top: 305PX;
+}
+button#next2 {
+    position:absolute;
+    margin-top:8PX;
+
+}
+button#next3 {
+    margin:auto;
+   position:relative;
+    float:right;
+}
+img{
+    border-radius: 3px;
+}
+/*button#next {
+    position: absolute;
+    margin-top: 305PX;
+    margin-left: 48PX;
+}*/
+.list-group-item i{
+    padding-right: 10px;
+    margin-left: -10px;
+}
+video{
+    background-color:black;
+}
+div#video_controls_bar {
+    position: absolute;
+    top:310px;
+}
+video#video_player_box {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    box-shadow: 0px 0px 6px 0px rgba(0,0,0,.5);
+    color: black;
+    visibility:hidden;
+}
+/*button#previous {
+    position: absolute;
+    margin-top: 305PX;
+}*/
+ul#playlist {
+    position: absolute;
+    width: 350px;
+    height: 95%;
+    margin-left: 15px;
+}
+    #sidebar {
+        position: fixed;
+        width: 200px;
+        height: 800px;
+        background: rgb(85, 85, 85);
+        top: 150px;
+        z-index: 20000;
+        left: -200px;
+        transition: all 500ms linear;
+    }
+
+ #sidebar.active{
+    left:0;
+}
+ #sidebar ul li{
+    color:rgba(230, 230, 230, .9);
+    text-align:center;
+    padding: 10px 5px;
+    list-style:none;
+    border-bottom: 1px solid rgba(100, 100, 100, .3);
+}
+
+
+.hover {
+    margin: auto;
+    /*padding-left:100px;*/
+    /*padding:unset;*/
+    width: 915px;
+    height: 195px;
+    padding-bottom:20px;
+    /*background-color:red;*/
+}
+.hover2 {
+    margin: 50px auto;
+    padding:;
+    width: 800px;
+    height: 350px;
+}
+
+.slider {
+    width:100%;
+    margin:auto;
+    overflow: hidden;
+   
+}
+.slider ul {
+    display:flex;
+    padding:0;
+    width:400%;
+
+    animation: cambio 20s infinite  alternate;
+}
+.slider  li{
+    width:100%;
+    list-style:none;
+}
+    .slider img {
+        box-shadow: 0px 0px 6px 0px rgba(0,0,0,.5);
+        width: 100%;
+        height: 300px;
+        border-radius: 10px;
+    }
+.hover2 h1 {
+    font-size: 2.2em;
+    color: white;
+    text-align: center;
+    padding-bottom: 100px;
+    opacity: 0.6;
+    -webkit-transition: padding-top .4s;
+}
+
+@keyframes cambio {
+    0% { margin-left:0;}
+    20% {margin-left:0;}
+
+    25%{margin-left: -100%}
+    45%{margin-left: -100%}
+
+    50% {margin-left: -200%}
+    70% {margin-left: -200%}
+
+    75% {margin-left: -300% }
+    100% {margin-left: -300%}
+}
+div.cont{
+    width: 300PX;
+    height: 180PX;
+    float:left;
+    margin-right:5px;
+    border-radius:10px;
+    -webkit-transition: height .4s;
+    margin-bottom:20px;
+}
+
+div#uno{
+    background-color: rgb(208,101,3);
+}
+
+div#dos {
+    background-color: rgb(233,147,26);
+}
+div#tres {
+    background-color: rgb(22,145,190);
+}
+img.icon{
+    display:block;
+    margin:50px auto;
+    background-color: rgba(255,255,255,.15);
+    width:50px;
+    padding:20px;
+    -webkit-border-radius:50%; 
+    -webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+    -webkit-transition: box-shadow .4s;
+}
+p.texto {
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+    padding-bottom: 100px;
+    opacity: 0.6;
+    -webkit-transition: padding-top .4s;
+}
+div.cont:hover{
+    height:259px;
+}
+div.cont:hover p.texto{
+    padding-top: 15px;
+    opacity:1;
+}
+div.cont:hover img.icon{
+    -webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.6);
+
+}
+.list-group-item {
+    color: rgb(20,20,20);
+    background: rgb(20,20,20);
+    color:white;
+}
+ .list-group-item img{
+    
+   margin-right:10px;
+   height:40px;
+   width:40px;
+}
+
+.list-group {
+    height: 100%;
+    width: 100%;
+    background: rgb(20,20,20);
+    overflow-y: scroll;
+    margin-bottom: 40px;
+    background: rgb(20,20,20);
+    /*padding-left:20px;*/
+}
+
+#playlist::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: rgb(20,20,20);
+}
+
+#playlist::-webkit-scrollbar {
+    width: 12px;
+    background-color: rgb(20,20,20);
+}
+
+#playlist::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: rgba(255,255,255,.15);
+}
+
+
